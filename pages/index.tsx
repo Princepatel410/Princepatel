@@ -100,7 +100,7 @@ export default function HomePage() {
           <div className={styles.developerRole}>Software Engineer</div>
 
           <p className={styles.bio}>
-            A backend-leaning full stack developer who isn't afraid to challenge
+            A backend-leaning full stack developer who isn&apos;t afraid to challenge
             the status quo. I build scalable systems with clean architecture and
             readable code.
           </p>

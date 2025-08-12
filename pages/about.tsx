@@ -10,12 +10,12 @@ const AboutPage = () => {
         <div className={styles.aboutContent}>
           <section className={styles.section}>
             <p className={styles.paragraph}>
-              Hey! I'm a software engineer from Ahmedabad, Gujarat, India. I'm
+              Hey! I&apos;m a software engineer from Ahmedabad, Gujarat, India. I&apos;m
               currently in my 8th semester with enrollment number 2102030400237.
             </p>
             <p className={styles.paragraph}>
-              I'm a backend-leaning full stack developer focused on Node.js,
-              with extensive experience in the MERN stack. I'm also enthusiastic
+              I&apos;m a backend-leaning full stack developer focused on Node.js,
+              with extensive experience in the MERN stack. I&apos;m also enthusiastic
               about AI/ML and currently expanding my knowledge in this field.
             </p>
           </section>
@@ -39,7 +39,7 @@ const AboutPage = () => {
           <section className={styles.section}>
             <h2 className={styles.sectionTitle}>Projects</h2>
             <p className={styles.paragraph}>
-              I've worked on several projects including an{" "}
+              I&apos;ve worked on several projects including an{" "}
               <span className={styles.highlight}>
                 AI-Powered Quiz Generator
               </span>{" "}
@@ -47,7 +47,7 @@ const AboutPage = () => {
               authentication, and Admin/User dashboard.
             </p>
             <p className={styles.paragraph}>
-              Currently, I'm working on a{" "}
+              Currently, I&apos;m working on a{" "}
               <span className={styles.highlight}>Mock Interview Portal</span>{" "}
               for college students and planning an{" "}
               <span className={styles.highlight}>
