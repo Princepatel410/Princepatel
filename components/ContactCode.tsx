@@ -3,8 +3,8 @@ import styles from "@/styles/ContactCode.module.css";
 const contactItems = [
   {
     social: "website",
-    link: "princepatel.com",
-    href: "https://princepatel.com",
+    link: "princepatel410.com",
+    href: "https://princepatel410.vercel.app",
   },
   {
     social: "email",

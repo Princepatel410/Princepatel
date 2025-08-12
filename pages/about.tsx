@@ -11,7 +11,7 @@ const AboutPage = () => {
           <section className={styles.section}>
             <p className={styles.paragraph}>
               Hey! I&apos;m a software engineer from Ahmedabad, Gujarat, India. I&apos;m
-              currently in my 8th semester with enrollment number 2102030400237.
+              currently in my 5th semester with enrollment number 240283111027.
             </p>
             <p className={styles.paragraph}>
               I&apos;m a backend-leaning full stack developer focused on Node.js,
@@ -48,10 +48,10 @@ const AboutPage = () => {
             </p>
             <p className={styles.paragraph}>
               Currently, I&apos;m working on a{" "}
-              <span className={styles.highlight}>Mock Interview Portal</span>{" "}
-              for college students and planning an{" "}
+              <span className={styles.highlight}>BetterCases</span>{" "}
+              for QA Enigineers{" "}
               <span className={styles.highlight}>
-                AI Resume Builder & Auto Job Apply System
+                which works on automatic test case generation
               </span>
               .
             </p>
